@@ -1,0 +1,11 @@
+{
+  "name": "one-word-first-thought",
+  "version": "1.0.0",
+  "description": "Petrichor — the first word that came to mind, written to /output/entry.txt for make.fun's One Word, First Thought bounty.",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
